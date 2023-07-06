@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Asus Zen200",
+      "price": 25000,
+      "categoryId": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "description": "Asus Zen200",
+      "price": 1500,
+      "categoryId": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Cell Phone",
+      "description": "Asus Zen200",
+      "price": 1500,
+      "categoryId": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Camera",
+      "description": "Asus Zen200",
+      "price": 1500,
+      "categoryId": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Keyboard",
+      "description": "Asus Zen200",
+      "price": 1500,
+      "categoryId": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 6,
+      "name": "HDMI Cable",
+      "description": "Asus Zen200",
+      "price": 1500,
+      "categoryId": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "name": "Koltuk",
+      "description": "Ikea Kumaşlı",
+      "imageUrl": "https://images.unsplash.com/photo-1506898667547-42e22a46e125?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=706&q=80",
+      "price": "2500",
+      "categoryId": "2",
+      "id": 7
+    },
+    {
+      "name": "Kalem",
+      "description": "Rodring",
+      "imageUrl": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "price": "150",
+      "categoryId": "2",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar Donanımı"
+    }
+  ]
+}
